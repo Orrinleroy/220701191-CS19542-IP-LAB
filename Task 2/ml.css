@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif; 
+    color: white;
+    margin: 2rem; 
+    background-image: url("mlbg.avif");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+  
+  h1, h2 {
+    margin: 1rem 0; 
+  }
+  
+  h1 {
+    font-size: 1.5rem; 
+  }
+  
+  p {
+    line-height: 1.5; 
+  }
+
+  ul {
+    list-style: disc;
+    padding-left: 1.5rem; 
+  }

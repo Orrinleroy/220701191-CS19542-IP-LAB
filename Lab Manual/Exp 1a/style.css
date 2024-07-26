@@ -1,0 +1,36 @@
+.image{
+    display:flex;
+    width: 132px;  
+    height: 170px; 
+    position: absolute;
+    top: 15;
+    right: 20;
+}
+.courses{
+    width: 100%;
+    border-collapse: collapse;
+    th, td {
+        border: 1px solid #000000;
+        padding: 8px;
+        text-align: left;
+      }
+      th {
+        background-color: #fdfdfd;
+        color: black;
+      }
+      tr:nth-child(odd) {
+        background-color: #f9f9f9;
+      }
+}
+.about{
+    font-size: 20px;
+}
+.info{
+    font-size: 20px;
+}
+.experience{
+    font-size: 20px;
+}
+body{
+    background-color: antiquewhite;
+}
